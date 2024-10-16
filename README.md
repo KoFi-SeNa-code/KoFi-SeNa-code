@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on anything related to data
 - 📫 How to reach me ...cl.kofisena@gmail.com
-- 😄 Pronouns: ...He
-- ⚡ Fun fact: ...
+
 
 <!---
 KoFi-SeNa-code/KoFi-SeNa-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
