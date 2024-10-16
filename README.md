@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @KoFi-SeNa-code
+- 👋 Hi, I’m Kofi Sena
 - 👀 I’m interested in data science and data analytics
-- 🌱 I’m currently learning data science and data analytics
-- 💞️ I’m looking to collaborate on related to data
+- 🌱 I’m currently learning data science
+- 💞️ I’m looking to collaborate on anything related to data
 - 📫 How to reach me ...cl.kofisena@gmail.com
 - 😄 Pronouns: ...He
 - ⚡ Fun fact: ...
